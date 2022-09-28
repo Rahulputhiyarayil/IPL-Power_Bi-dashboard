@@ -1,2 +1,3 @@
 # IPL-Power_Bi-dashboard
-Config files for my GitHub profile.
+
+This dashboard contains batsman stats of IPL from 2008 to 2019
