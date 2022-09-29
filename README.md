@@ -1,4 +1,4 @@
-# IPL-Power_Bi-dashboard
+# IPL-dashboard
 
 This Power BI dashboard contains batsman stats of IPL from 2008 to 2019
 
